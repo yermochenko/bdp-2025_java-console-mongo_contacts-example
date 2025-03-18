@@ -1,0 +1,415 @@
+[ {
+  "first_name" : "Rhoda",
+  "middle_name" : null,
+  "last_name" : "Tolhurst",
+  "birthday" : {
+    "$date" : "2000-04-01T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (25) 808-30-07",
+    "type" : "life:)"
+  }, {
+    "number" : "+375 (29) 164-94-83",
+    "type" : "A1"
+  }, {
+    "number" : "8 (0212) 72-04-32",
+    "type" : "landline"
+  } ],
+  "emails" : [ "r.tolhurst@zohomail.eu", "r.tolhurst@outlook.com" ]
+}, {
+  "first_name" : "Weider",
+  "middle_name" : "Bail",
+  "last_name" : "Kilbourn",
+  "birthday" : null,
+  "phones" : [ {
+    "number" : "+375 (44) 345-06-56",
+    "type" : "A1"
+  } ],
+  "emails" : [ "kilbourn@outlook.com" ]
+}, {
+  "first_name" : "Dannye",
+  "middle_name" : null,
+  "last_name" : "Morad",
+  "birthday" : {
+    "$date" : "1992-11-02T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (29) 257-69-79",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "morad.d@gmail.com" ]
+}, {
+  "first_name" : "Alva",
+  "middle_name" : "Colan",
+  "last_name" : "Teek",
+  "birthday" : {
+    "$date" : "1997-03-13T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (25) 809-42-47",
+    "type" : "life:)"
+  }, {
+    "number" : "+375 (33) 884-32-49",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "a.teek@gmail.com", "alva.teek@proton.me" ]
+}, {
+  "first_name" : "Boone",
+  "middle_name" : "Kamila",
+  "last_name" : "Wardlaw",
+  "birthday" : {
+    "$date" : "1996-05-19T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "8 (0212) 34-20-55",
+    "type" : "landline"
+  }, {
+    "number" : "+375 (25) 458-24-51",
+    "type" : "life:)"
+  } ],
+  "emails" : [ ]
+}, {
+  "first_name" : "Batholomew",
+  "middle_name" : "Neils",
+  "last_name" : "Dusting",
+  "birthday" : null,
+  "phones" : [ {
+    "number" : "+375 (33) 283-25-21",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (33) 245-99-18",
+    "type" : "MTS"
+  } ],
+  "emails" : [ ]
+}, {
+  "first_name" : "Kimberli",
+  "middle_name" : "Lyon",
+  "last_name" : "McGillicuddy",
+  "birthday" : {
+    "$date" : "1996-10-06T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 177-72-62",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "k.mcgillicuddy@gmail.com" ]
+}, {
+  "first_name" : "Phil",
+  "middle_name" : "Shelby",
+  "last_name" : "Drew-Clifton",
+  "birthday" : {
+    "$date" : "1973-12-24T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (29) 155-29-49",
+    "type" : "A1"
+  } ],
+  "emails" : [ "phil.drew-clifton@yandex.ru" ]
+}, {
+  "first_name" : "Suki",
+  "middle_name" : "Dorisa",
+  "last_name" : "Matthensen",
+  "birthday" : {
+    "$date" : "1972-08-31T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 877-47-35",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "matthensen.s@yandex.ru", "matthensen@gmail.com" ]
+}, {
+  "first_name" : "Dagny",
+  "middle_name" : "Adams",
+  "last_name" : "Gowland",
+  "birthday" : {
+    "$date" : "1972-01-31T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (44) 646-92-71",
+    "type" : "A1"
+  }, {
+    "number" : "+375 (44) 592-71-69",
+    "type" : "A1"
+  }, {
+    "number" : "8 (0212) 01-37-68",
+    "type" : "landline"
+  } ],
+  "emails" : [ "gowland@proton.me", "gowland@gmail.com", "gowland@outlook.com" ]
+}, {
+  "first_name" : "Rab",
+  "middle_name" : null,
+  "last_name" : "Ginni",
+  "birthday" : {
+    "$date" : "2003-03-21T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (29) 548-49-15",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (44) 828-79-93",
+    "type" : "A1"
+  } ],
+  "emails" : [ "ginni.r@yandex.ru" ]
+}, {
+  "first_name" : "Marrissa",
+  "middle_name" : "Kip",
+  "last_name" : "Ruppelin",
+  "birthday" : {
+    "$date" : "1973-01-30T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 960-15-06",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (33) 917-84-59",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "marrissa.ruppelin@outlook.com", "ruppelin.m@proton.me" ]
+}, {
+  "first_name" : "Glenden",
+  "middle_name" : null,
+  "last_name" : "Bleesing",
+  "birthday" : {
+    "$date" : "1993-11-13T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 884-24-16",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (44) 266-07-61",
+    "type" : "A1"
+  } ],
+  "emails" : [ ]
+}, {
+  "first_name" : "Kip",
+  "middle_name" : null,
+  "last_name" : "Plampeyn",
+  "birthday" : {
+    "$date" : "1993-11-26T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 238-48-02",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (29) 278-28-90",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "plampeyn.k@mail.ru" ]
+}, {
+  "first_name" : "Fernande",
+  "middle_name" : null,
+  "last_name" : "Wilkison",
+  "birthday" : null,
+  "phones" : [ {
+    "number" : "8 (0212) 87-10-39",
+    "type" : "landline"
+  } ],
+  "emails" : [ ]
+}, {
+  "first_name" : "Mercy",
+  "middle_name" : "Haley",
+  "last_name" : "Whiteland",
+  "birthday" : {
+    "$date" : "1982-06-02T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (44) 199-35-56",
+    "type" : "A1"
+  } ],
+  "emails" : [ "whiteland@gmail.com" ]
+}, {
+  "first_name" : "Gilles",
+  "middle_name" : "Fabio",
+  "last_name" : "Bohman",
+  "birthday" : {
+    "$date" : "1998-04-10T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (44) 503-25-53",
+    "type" : "A1"
+  }, {
+    "number" : "+375 (44) 356-35-47",
+    "type" : "A1"
+  } ],
+  "emails" : [ ]
+}, {
+  "first_name" : "Candi",
+  "middle_name" : null,
+  "last_name" : "Hawick",
+  "birthday" : {
+    "$date" : "1992-05-04T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 364-42-84",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "candi.hawick@gmail.com", "c.hawick@outlook.com" ]
+}, {
+  "first_name" : "Corbet",
+  "middle_name" : "Evy",
+  "last_name" : "South",
+  "birthday" : {
+    "$date" : "2007-12-14T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (29) 996-24-77",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (29) 671-11-06",
+    "type" : "A1"
+  } ],
+  "emails" : [ ]
+}, {
+  "first_name" : "Wilow",
+  "middle_name" : "Adolphe",
+  "last_name" : "Bolletti",
+  "birthday" : {
+    "$date" : "1971-01-25T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 314-25-62",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (33) 636-07-03",
+    "type" : "MTS"
+  } ],
+  "emails" : [ ]
+}, {
+  "first_name" : "Anthony",
+  "middle_name" : "Conan",
+  "last_name" : "Denzey",
+  "birthday" : {
+    "$date" : "2004-09-13T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (25) 858-55-16",
+    "type" : "life:)"
+  }, {
+    "number" : "+375 (44) 540-94-61",
+    "type" : "A1"
+  } ],
+  "emails" : [ "denzey.a@gmail.com", "anthony.denzey@outlook.com", "a.denzey@zohomail.eu" ]
+}, {
+  "first_name" : "Carlotta",
+  "middle_name" : "Britteny",
+  "last_name" : "McLenaghan",
+  "birthday" : {
+    "$date" : "1989-08-23T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 724-39-56",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (25) 410-95-41",
+    "type" : "life:)"
+  } ],
+  "emails" : [ "carlotta.mclenaghan@gmail.com" ]
+}, {
+  "first_name" : "Bartlet",
+  "middle_name" : "Amery",
+  "last_name" : "Adamo",
+  "birthday" : null,
+  "phones" : [ {
+    "number" : "+375 (44) 932-94-29",
+    "type" : "A1"
+  }, {
+    "number" : "+375 (44) 205-32-23",
+    "type" : "A1"
+  }, {
+    "number" : "+375 (29) 789-38-93",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "adamo@gmail.com", "adamo.b@outlook.com", "adamo@zohomail.eu" ]
+}, {
+  "first_name" : "Brandy",
+  "middle_name" : "Lin",
+  "last_name" : "Crush",
+  "birthday" : {
+    "$date" : "1975-03-04T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (29) 538-30-53",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "crush.b@outlook.com" ]
+}, {
+  "first_name" : "Ardelis",
+  "middle_name" : "Trueman",
+  "last_name" : "Angier",
+  "birthday" : {
+    "$date" : "2000-01-25T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 299-99-54",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "ardelis.angier@proton.me", "angier@outlook.com", "ardelis.angier@yandex.ru" ]
+}, {
+  "first_name" : "Bent",
+  "middle_name" : null,
+  "last_name" : "Lille",
+  "birthday" : {
+    "$date" : "1988-03-05T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 600-99-80",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (33) 596-18-19",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "lille.b@proton.me", "lille@zohomail.eu" ]
+}, {
+  "first_name" : "Kelcey",
+  "middle_name" : null,
+  "last_name" : "O'Hartnett",
+  "birthday" : null,
+  "phones" : [ {
+    "number" : "+375 (33) 313-83-79",
+    "type" : "MTS"
+  } ],
+  "emails" : [ "kelcey.o'hartnett@yahoo.com" ]
+}, {
+  "first_name" : "Myrah",
+  "middle_name" : "Lindsey",
+  "last_name" : "Dorton",
+  "birthday" : {
+    "$date" : "2006-10-22T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (44) 760-55-55",
+    "type" : "A1"
+  }, {
+    "number" : "+375 (29) 534-13-62",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (29) 577-32-42",
+    "type" : "MTS"
+  } ],
+  "emails" : [ ]
+}, {
+  "first_name" : "Eadie",
+  "middle_name" : "Alvie",
+  "last_name" : "Cahn",
+  "birthday" : null,
+  "phones" : [ {
+    "number" : "+375 (44) 871-67-67",
+    "type" : "A1"
+  } ],
+  "emails" : [ "cahn.e@gmail.com", "cahn@proton.me" ]
+}, {
+  "first_name" : "Killy",
+  "middle_name" : "Nico",
+  "last_name" : "Dibdale",
+  "birthday" : {
+    "$date" : "1974-03-01T00:00:00.000Z"
+  },
+  "phones" : [ {
+    "number" : "+375 (33) 155-37-93",
+    "type" : "MTS"
+  }, {
+    "number" : "+375 (29) 343-18-98",
+    "type" : "A1"
+  } ],
+  "emails" : [ "dibdale.k@gmail.com" ]
+} ]
